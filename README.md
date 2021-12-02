@@ -41,6 +41,32 @@ rails s
 ```
 # Utilizando a Api
 
+Scripts em shell nas pasta App/scripts, utilizando CURL
+
+Auth
+  Section
+     - Entrar na sessão 
+     - Sair sessão
+     
+  Confimation
+     - Cofirmação do e-mail cadastrado / ou ao atualziar a senha.
+     
+  Password
+     - Esqueci a senha 
+     - Atualizar a senha
+     - Resetar a senha
+     
+  Validate
+     - Validar Torken do usuáio logado
+
+  Users: 
+     - Criar um novo usuário
+     - Atualizar usuário
+     - Atualizar email usuário
+     - Deletar usuário
+     
+Articles
+  - Criar / Read / Atualizar / Deletar
 
 # Autor
 
