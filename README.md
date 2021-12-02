@@ -20,20 +20,27 @@ Pré-requisitos: Ruby / Ruby On Rails / Postgres / Imsomnia
 
 ```bash
 # clonar repositório
-git clone git@github.com:IsraelSantos7792/PlantManager.git
+git clone git@github.com:IsraelSantos7792/Api-Blog-Authentication.git
 
 # entrar na pasta do projeto front end web
-cd PlantManager
+cd Api-Blog-Authentication
 
 # instalar dependências
-yarn install
+bundle install --without production
+
+# criar banco de dados
+rails db:create
+
+# criar as tabelas
+rails db:migrate
 
 # executar o projeto
-yarn start
-
-# leia o Qrcode com aplicativo EXPO (disponivel nas lojas de aplicativos)
+rails s
 
 ```
+# Enviando resquests pelo Insomnia
+
+
 # Autor
 
 Israel Santos 
