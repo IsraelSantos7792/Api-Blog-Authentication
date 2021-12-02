@@ -17,7 +17,7 @@ Api em Ruby On Rails completa para login e autenticação de usuário usando Dev
 
 # Como executar o projeto
 
-Pré-requisitos: Ruby / Ruby On Rails / Postgres / Imsomnia 
+Pré-requisitos: Ruby / Ruby On Rails / Postgres
 
 ```bash
 # clonar repositório
