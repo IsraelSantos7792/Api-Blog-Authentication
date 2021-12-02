@@ -49,7 +49,7 @@ Auth
      - Sair sessão
      
   Confimation
-     - Cofirmação do e-mail cadastrado / ou ao atualziar a senha.
+     - Cofirmação e-mail cadastrado / ou ao atualziar a senha.
      
   Password
      - Esqueci a senha 
@@ -57,7 +57,7 @@ Auth
      - Resetar a senha
      
   Validate
-     - Validar Torken do usuáio logado
+     - Validar Torken usuáio logado
 
   Users: 
      - Criar um novo usuário
