@@ -71,6 +71,22 @@ Articles
   - Criar / Read / Atualizar / Deletar
   
   ```
+  Exemplo: Craindo um novo usuário
+  ```bash
+  API_URL='http://localhost:3000/api/auth'
+
+  # password mínimo de 8 caracteres 
+  BODY='{"email":"teste@teste.com","password":"12345678","password_confirmation":"12345678"}'
+
+  mk_req () {
+    curl --request POST \
+      --url $API_URL \
+      -H 'Content-Type: application/json' \
+      -d $BODY
+    echo
+  }
+  mk_req
+  ```
 
 # Autor
 
