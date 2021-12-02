@@ -42,7 +42,7 @@ rails s
 # Utilizando a Api
 
 Scripts em shell nas pasta App/scripts, utilizando CURL
-
+```bash
 Auth
   Section
      - Entrar na sessão 
@@ -67,6 +67,8 @@ Auth
      
 Articles
   - Criar / Read / Atualizar / Deletar
+  
+  ```
 
 # Autor
 
