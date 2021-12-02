@@ -39,7 +39,7 @@ rails db:migrate
 rails s
 
 ```
-# Utilizando a Api atravéz Insomnia
+# Utilizando a Api
 
 
 # Autor
