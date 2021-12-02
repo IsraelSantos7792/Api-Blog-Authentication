@@ -39,6 +39,8 @@ rails db:migrate
 rails s
 
 ```
+o backend estará disponível em http://localhost:3000.
+
 # Utilizando a Api
 
 Scripts em shell nas pasta App/scripts, utilizando CURL
