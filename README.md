@@ -71,7 +71,7 @@ Articles
   - Criar / Read / Atualizar / Deletar
   
   ```
-  Exemplo: Craindo um novo usuário
+  Exemplo: Criando um novo usuário
   ```bash
   API_URL='http://localhost:3000/api/auth'
 
