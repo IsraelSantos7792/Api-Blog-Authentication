@@ -13,6 +13,7 @@ Api em Ruby On Rails completa para login e autenticação de usuário usando Dev
 - Gem Device-token-auth
 - Imsomnia
 - Database Postgres
+- Cli dbeaver
 
 # Como executar o projeto
 
@@ -38,7 +39,7 @@ rails db:migrate
 rails s
 
 ```
-# Enviando resquests pelo Insomnia
+# Utilizando a Api atravéz Insomnia
 
 
 # Autor
