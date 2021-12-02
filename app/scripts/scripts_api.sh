@@ -18,33 +18,6 @@ mk_req () {
 
 mk_req
 
-# Possibilidades da Api
-# Auth
-#   Section
-#      - Entrar na sessão 
-#      - Sair sessão
-     
-#   Confimation
-#      - Cofirmação e-mail cadastrado / ou ao atualziar a senha.
-     
-#   Password
-#      - Esqueci a senha 
-#      - Atualizar a senha
-#      - Resetar a senha
-     
-#   Validate
-#      - Validar Torken usuáio logado
-
-#   Users: 
-#      - Criar um novo usuário
-#      - Atualizar usuário
-#      - Atualizar email usuário
-#      - Deletar usuário
-     
-# Articles
-#   - Criar / Read / Atualizar / Deletar
-
-
 # #Atualizar usuário 
 #     method:Put
 #     BODY='{"name": "","nickname": ""}'
